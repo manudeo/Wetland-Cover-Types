@@ -8,12 +8,15 @@ Authors: Manudeo Singh, Satyasri Allaka, Praveen K. Gupta, J.G. Patel, and Rajiv
 
 Institutes: IIT Kanpur and SAC Ahmedabad, ISRO. 
 
+[Email](manudeo.singh@uni-potsdam.de) Manudeo Singh for any issues.
 ============================================================================================
 Details of the tools are discussed in [Details of tools.docx ](https://github.com/manudeo/Wetland-Cover-Types/blob/main/Details%20of%20tools.docx)
 
-[AcGIS tools](https://github.com/manudeo/Wetland-Cover-Types/blob/main/WCT_Toolbox.tbx) and [Google Earth Engine code](https://code.earthengine.google.com/e72bfe791f13493febabacd99a2aab84)
+ArcGIS tools cam be downloaded here: [AcGIS tools](https://github.com/manudeo/Wetland-Cover-Types/blob/main/WCT_Toolbox.tbx) 
 
-Contact manudeo.singh@uni-potsdam.de for any issues.
+Direct link to [Google Earth Engine code](https://code.earthengine.google.com/e72bfe791f13493febabacd99a2aab84). This requires GEE profile. 
+
+A version of GEE code can be downloaded here: [GEE_code_WCTs](https://github.com/manudeo/Wetland-Cover-Types/blob/main/GEE_code_WCTs.js)
 
 
 Cite:
