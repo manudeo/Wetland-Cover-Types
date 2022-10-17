@@ -8,7 +8,7 @@ Authors: Manudeo Singh, Satyasri Allaka, Praveen K. Gupta, J.G. Patel, and Rajiv
 
 Institutes: IIT Kanpur and SAC Ahmedabad, ISRO. 
 
-Contact [Manudeo Singh] (manudeo.singh@uni-potsdam.de) for any issues.
+Contact [Manudeo Singh](manudeo.singh@uni-potsdam.de) for any issues.
 
 ============================================================================================
 Details of the tools are discussed in [Details of tools.docx ](https://github.com/manudeo/Wetland-Cover-Types/blob/main/Details%20of%20tools.docx)
