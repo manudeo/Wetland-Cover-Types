@@ -21,4 +21,4 @@ A version of GEE code can be downloaded here: [GEE_code_WCTs](https://github.com
 
 
 Cite:
-_Singh, M., Allaka, S., Gupta, P.K. et al. Deriving wetland-cover types (WCTs) from integration of multispectral indices based on Earth observation data. Environ Monit Assess 194, 878 (2022). https://doi.org/10.1007/s10661-022-10541-7_
+_Singh, M., Allaka, S., Gupta, P. K., Patel, J. G., & Sinha, R. (2022). Deriving wetland-cover types (WCTs) from integration of multispectral indices based on Earth observation data. Environmental Monitoring and Assessment, 194(12), 878. https://doi.org/10.1007/s10661-022-10541-7_
